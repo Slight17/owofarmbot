@@ -40,10 +40,10 @@
         "banbypass": true,
         "discordrpc": false,
         "typingindicator": true,
-        "pray": false,
-        "curse": false,
-        "cookie": false,
-        "autoquest": false,
+        "pray": true,
+        "curse": true,
+        "cookie": true,
+        "autoquest": true,
         "extratoken": false,
         "randommessage": true,
         "inventory": {
@@ -61,7 +61,7 @@
                 "common": true,
                 "uncommon": true,
                 "rare": true,
-                "epic": false,
+                "epic": true,
                 "mythical": false,
                 "patreon": false,
                 "cpatreon": false,
@@ -80,14 +80,14 @@
         },
         "gamble": {
             "coinflip": {
-                "default_amount": 1000,
-                "max_amount": 150000,
+                "default_amount": 3000,
+                "max_amount": 300000,
                 "multipler": 3,
-                "enable": false
+                "enable": true
             },
             "slots": {
-                "enable": false,
-                "amount": "1"
+                "enable": true,
+                "amount": "1000"
             }
         },
         "notifynumber": "1",
@@ -114,12 +114,12 @@
         }
     },
     "main": {
-        "token": "",
-        "userid": "",
-        "channelid": "",
-        "owodmchannelid": "",
-        "gamblechannelid": "",
-        "autoquestchannelid": ""
+        "token": "NTk0NTEzMTU4NjUyMjk3MjE2.Ge9VRL.rfcFPaeUjaUnTnUFKAddY8edqiBwHTCv06zMFA",
+        "userid": "594513158652297216",
+        "channelid": "924973992455057409",
+        "owodmchannelid": "926505652094914660",
+        "gamblechannelid": "925052289683693689",
+        "autoquestchannelid": "924974315479371827"
     },
     "extra": {
         "token": "",
